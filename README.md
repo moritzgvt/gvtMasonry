@@ -18,7 +18,7 @@ A simple and easy to use Masonry-Script
 * stylesheet to set the width of ```#myContainer```
 
 ## how to use
-* add gvtMasonry.min.js to your project
+* add gvtMasonry.min.js to your project<br>
 ``` <script src="YOUR-PATH/gvtMasonry.min.js"></script> ```
-* call the function
+* call the function<br>
 ``` jQuery( '#myContainer' ).gvtMasonry( [Column-Amount] ) ```
